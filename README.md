@@ -4,7 +4,7 @@ Para acessar essa aplicação você deverá realizar alguns passos a seguir:
 
 <h1>Back End</h1>
 1- baixe o arquivo database.sql e cole no seu banco de dados Mysql
-Em caso de utilize o champ, deverá copiar o conteudo que está dentro do database.sql e colar no campo de adicionar uma nova tabela.
+Caso utilize o champ, deverá copiar o conteudo que está dentro do database.sql e colar no campo de adicionar uma nova tabela.
 
 ![instrução](https://github.com/RaphaelFiais/Shopper/assets/108894531/2f420be4-3ce7-4b62-99d0-10319386fce5)
 
